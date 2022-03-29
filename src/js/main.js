@@ -29,6 +29,6 @@ window.addEventListener('DOMContentLoaded', () => {
     pictureSize('.sizes-block');
     accordion('.accordion-heading');
     burger('.burger-menu', '.burger');
-    scrolling();
+    scrolling('.pageup');
 
 });
